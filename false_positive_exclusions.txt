@@ -7,7 +7,7 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-Itch.io
+LessWrong
 LushStories
 PepperIT
 PocketStars
