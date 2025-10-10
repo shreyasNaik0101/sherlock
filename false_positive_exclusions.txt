@@ -6,6 +6,7 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LiveJournal
 LushStories
 PepperIT
 PocketStars
