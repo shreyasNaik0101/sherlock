@@ -1,20 +1,15 @@
 APClips
 BoardGameGeek
-Coders Rank
-DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
@@ -23,7 +18,5 @@ Weblate
 YandexMusic
 kaskus
 opennet
-programming.dev
 svidbook
 threads
-xHamster
