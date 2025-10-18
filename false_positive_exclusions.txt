@@ -1,7 +1,7 @@
 APClips
 BoardGameGeek
 Coders Rank
-Cults3D
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -12,14 +12,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-Smule
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
