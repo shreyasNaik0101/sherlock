@@ -1,10 +1,11 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -14,7 +15,6 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
