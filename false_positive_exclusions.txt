@@ -1,7 +1,7 @@
 APClips
+Audiojungle
 BoardGameGeek
-Coders Rank
-DeviantArt
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
