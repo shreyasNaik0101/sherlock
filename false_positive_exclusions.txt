@@ -1,21 +1,20 @@
 APClips
-Audiojungle
 BoardGameGeek
-CyberDefenders
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-LessWrong
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
