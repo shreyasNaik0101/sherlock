@@ -1,11 +1,9 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
-DeviantArt
 GNOME VCS
 Giphy
-GitHub
+Gumroad
 HackerEarth
 LushStories
 PepperIT
@@ -14,14 +12,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
-Velomania
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
