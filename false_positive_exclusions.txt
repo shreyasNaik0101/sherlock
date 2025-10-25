@@ -1,7 +1,5 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
 DeviantArt
 GNOME VCS
 Giphy
