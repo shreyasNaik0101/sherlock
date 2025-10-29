@@ -1,10 +1,7 @@
 APClips
-Academia.edu
 BoardGameGeek
-Coders Rank
 CyberDefenders
 DeviantArt
-GNOME VCS
 Giphy
 HackerEarth
 LessWrong
@@ -20,6 +17,8 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
+opennet
 svidbook
 threads
