@@ -1,7 +1,9 @@
 APClips
 BoardGameGeek
-CyberDefenders
+Coders Rank
 DeviantArt
+Eintracht Frankfurt Forum
+GNOME VCS
 Giphy
 HackerEarth
 LessWrong
@@ -14,10 +16,8 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
 opennet
 svidbook
