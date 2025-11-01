@@ -1,5 +1,4 @@
 APClips
-Audiojungle
 BoardGameGeek
 Coders Rank
 DeviantArt
@@ -13,7 +12,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
@@ -22,5 +20,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
