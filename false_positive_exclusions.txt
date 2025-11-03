@@ -1,7 +1,7 @@
 APClips
+Audiojungle
 BoardGameGeek
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,12 +15,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
-WebNode
 Weblate
 YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
 threads
