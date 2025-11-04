@@ -1,7 +1,9 @@
 APClips
-Audiojungle
 BoardGameGeek
+Carbonmade
 Coders Rank
+CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -21,3 +23,4 @@ kaskus
 phpRU
 svidbook
 threads
+xHamster
