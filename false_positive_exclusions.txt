@@ -1,13 +1,12 @@
 APClips
 BoardGameGeek
-Carbonmade
 Coders Rank
-CyberDefenders
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -20,7 +19,5 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-phpRU
 svidbook
 threads
-xHamster
