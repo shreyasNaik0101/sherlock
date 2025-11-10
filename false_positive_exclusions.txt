@@ -12,6 +12,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Slashdot
 SlideShare
 Splice
 Spotify
@@ -19,6 +20,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
+xHamster
