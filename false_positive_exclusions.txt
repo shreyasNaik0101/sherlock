@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -12,7 +13,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slashdot
 SlideShare
 Splice
 Spotify
@@ -22,4 +22,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
