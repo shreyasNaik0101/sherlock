@@ -4,15 +4,14 @@ BoardGameGeek
 Coders Rank
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
@@ -20,5 +19,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
