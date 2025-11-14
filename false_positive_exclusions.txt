@@ -1,11 +1,14 @@
 APClips
+Archive of Our Own
 Archive.org
 BoardGameGeek
 Coders Rank
+DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
+Itch.io
 LushStories
 PepperIT
 PocketStars
@@ -18,7 +21,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
 threads
