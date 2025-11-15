@@ -1,14 +1,13 @@
 APClips
-Archive of Our Own
 Archive.org
 BoardGameGeek
 Coders Rank
+CyberDefenders
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -24,3 +23,4 @@ kaskus
 phpRU
 svidbook
 threads
+xHamster
