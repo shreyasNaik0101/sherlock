@@ -7,8 +7,8 @@ DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
