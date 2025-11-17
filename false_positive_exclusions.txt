@@ -2,13 +2,11 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
-CyberDefenders
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -19,8 +17,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
+furaffinity
 kaskus
-phpRU
+opennet
 svidbook
 threads
-xHamster
