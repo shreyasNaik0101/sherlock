@@ -1,11 +1,12 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 CyberDefenders
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -16,9 +17,11 @@ SlideShare
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
 kaskus
 opennet
 phpRU
 svidbook
 threads
+xHamster
