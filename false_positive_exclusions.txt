@@ -1,8 +1,7 @@
 APClips
 Archive.org
-Audiojungle
+Blogger
 BoardGameGeek
-CyberDefenders
 DeviantArt
 GNOME VCS
 Giphy
@@ -17,7 +16,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
