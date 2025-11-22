@@ -1,8 +1,6 @@
 APClips
 Archive.org
-Blogger
 BoardGameGeek
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -19,7 +17,5 @@ Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
-xHamster
