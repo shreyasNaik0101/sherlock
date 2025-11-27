@@ -1,8 +1,7 @@
 APClips
 Archive.org
 BoardGameGeek
-Coders Rank
-DeviantArt
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,14 +12,13 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
-forum_guns
 kaskus
-phpRU
+opennet
 svidbook
 threads
+xHamster
