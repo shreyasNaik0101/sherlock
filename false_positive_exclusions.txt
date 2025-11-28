@@ -2,7 +2,9 @@ APClips
 Archive.org
 BoardGameGeek
 CyberDefenders
+DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
 HackerEarth
 LessWrong
@@ -21,4 +23,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
