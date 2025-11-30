@@ -2,12 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
-CyberDefenders
+DeviantArt
 Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -21,6 +22,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
