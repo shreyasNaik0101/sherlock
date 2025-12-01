@@ -1,14 +1,12 @@
 APClips
 Archive.org
 BoardGameGeek
-Coders Rank
+CyberDefenders
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -16,13 +14,13 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
 threads
