@@ -1,8 +1,9 @@
 APClips
+Academia.edu
 Archive.org
 BoardGameGeek
+Coders Rank
 CyberDefenders
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,7 +15,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
@@ -24,3 +24,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
