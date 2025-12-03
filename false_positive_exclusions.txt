@@ -1,15 +1,13 @@
 APClips
-Academia.edu
 Archive.org
 BoardGameGeek
 Coders Rank
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -24,4 +22,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
