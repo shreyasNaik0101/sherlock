@@ -1,7 +1,11 @@
 APClips
 Archive.org
 BoardGameGeek
+Code Snippet Wiki
 Coders Rank
+CyberDefenders
+DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -22,3 +26,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
