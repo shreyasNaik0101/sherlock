@@ -5,13 +5,13 @@ Code Snippet Wiki
 Coders Rank
 CyberDefenders
 DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -22,8 +22,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+eintracht
 kaskus
-opennet
 svidbook
 threads
-xHamster
