@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
 CyberDefenders
 DeviantArt
 GNOME VCS
@@ -22,7 +21,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 kaskus
+opennet
 svidbook
 threads
