@@ -1,9 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
-CGTrader
+Carbonmade
 Code Snippet Wiki
-DeviantArt
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -20,9 +20,9 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster
