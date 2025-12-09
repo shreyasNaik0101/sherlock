@@ -1,9 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
-Coders Rank
+DeviantArt
+Fosstodon
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,6 +21,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+hunting
 kaskus
 opennet
 svidbook
