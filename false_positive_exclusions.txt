@@ -3,6 +3,7 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
+CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -20,11 +21,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Vero
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
