@@ -2,9 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
-CyberDefenders
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -13,6 +10,7 @@ HackerEarth
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -27,3 +25,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
