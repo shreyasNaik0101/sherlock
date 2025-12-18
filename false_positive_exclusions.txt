@@ -2,6 +2,8 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+Coders Rank
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -10,7 +12,6 @@ HackerEarth
 Hubski
 LessWrong
 LushStories
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -20,9 +21,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
