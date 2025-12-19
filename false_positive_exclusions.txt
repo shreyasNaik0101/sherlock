@@ -3,7 +3,6 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -21,6 +20,8 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
 kaskus
+opennet
 svidbook
 threads
