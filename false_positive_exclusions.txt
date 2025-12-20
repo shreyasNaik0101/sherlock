@@ -2,7 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -16,12 +16,12 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Scribd
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
