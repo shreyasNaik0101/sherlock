@@ -2,7 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-DeviantArt
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -10,7 +10,6 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -21,7 +20,9 @@ SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
+opennet
+phpRU
 svidbook
 threads
+xHamster
