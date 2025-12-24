@@ -20,9 +20,8 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
 threads
-xHamster
