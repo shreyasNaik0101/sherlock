@@ -2,9 +2,9 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
+DeviantArt
 Fandom
-Freelancer
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
