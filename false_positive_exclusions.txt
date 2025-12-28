@@ -8,9 +8,10 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
 LessWrong
-LushStories
+Motherless
 PepperIT
 PocketStars
 Reddit
@@ -27,3 +28,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
