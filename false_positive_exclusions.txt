@@ -1,17 +1,15 @@
 APClips
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
-DeviantArt
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 LessWrong
-Motherless
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -28,4 +26,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
