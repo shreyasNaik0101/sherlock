@@ -1,7 +1,9 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 DeviantArt
 Fandom
 Freelancer
@@ -14,7 +16,6 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -23,10 +24,10 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
