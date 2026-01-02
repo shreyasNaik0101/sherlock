@@ -1,12 +1,10 @@
 APClips
 Archive.org
-Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
 DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -31,3 +29,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
