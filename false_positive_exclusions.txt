@@ -2,16 +2,18 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-DeviantArt
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
+HackerRank
 Hubski
+Itch.io
 LessWrong
 LushStories
-Motherless
 PepperIT
 PocketStars
 Reddit
