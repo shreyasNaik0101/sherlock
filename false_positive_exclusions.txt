@@ -2,16 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
-HackerRank
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -19,6 +16,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -31,3 +29,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
