@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -16,6 +17,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -23,6 +25,8 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
