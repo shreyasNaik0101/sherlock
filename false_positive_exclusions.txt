@@ -2,11 +2,11 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitBook
 HackerEarth
 Hubski
 LessWrong
@@ -22,9 +22,9 @@ Smule
 Splice
 Spotify
 Weblate
-kaskus
+Wordnik
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
