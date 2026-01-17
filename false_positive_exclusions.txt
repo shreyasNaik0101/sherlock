@@ -1,7 +1,10 @@
 APClips
 Archive.org
+BitBucket
 BoardGameGeek
+CGTrader
 Code Snippet Wiki
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -24,8 +27,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
