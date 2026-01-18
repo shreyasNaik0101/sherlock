@@ -1,9 +1,8 @@
 APClips
 Archive.org
-BitBucket
 BoardGameGeek
-CGTrader
 Code Snippet Wiki
+CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -12,12 +11,12 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,6 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
