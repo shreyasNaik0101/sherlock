@@ -3,20 +3,20 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -26,7 +26,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
