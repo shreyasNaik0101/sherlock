@@ -3,17 +3,18 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 LessWrong
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -26,6 +27,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
