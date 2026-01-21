@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -14,20 +13,20 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
+eintracht
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
