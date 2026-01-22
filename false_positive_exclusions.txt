@@ -4,12 +4,12 @@ BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -19,14 +19,13 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
