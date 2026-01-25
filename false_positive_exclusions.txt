@@ -2,7 +2,8 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Dribbble
+CyberDefenders
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
