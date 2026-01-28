@@ -1,11 +1,11 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -26,6 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
