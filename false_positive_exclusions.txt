@@ -1,22 +1,24 @@
 APClips
+Archive of Our Own
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-ImgUp.cz
+Itch.io
+LessWrong
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -24,9 +26,11 @@ Splice
 Spotify
 Weblate
 YandexMusic
+igromania
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
