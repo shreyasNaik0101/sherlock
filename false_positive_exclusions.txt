@@ -1,5 +1,4 @@
 APClips
-Archive of Our Own
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
@@ -11,7 +10,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -26,11 +24,9 @@ Splice
 Spotify
 Weblate
 YandexMusic
-igromania
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
