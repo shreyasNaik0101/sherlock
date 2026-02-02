@@ -1,8 +1,6 @@
 APClips
 Archive.org
-BitBucket
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -11,7 +9,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -24,11 +21,11 @@ SlideShare
 Smule
 Splice
 Spotify
-TryHackMe
 Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
