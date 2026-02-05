@@ -3,12 +3,12 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 LessWrong
 LushStories
@@ -27,7 +27,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
