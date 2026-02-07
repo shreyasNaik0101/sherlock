@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -10,7 +11,6 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -30,3 +30,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
