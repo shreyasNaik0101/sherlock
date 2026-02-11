@@ -8,13 +8,11 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 LessWrong
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
