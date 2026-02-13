@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -9,7 +10,6 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -22,9 +22,9 @@ Smule
 Splice
 Spotify
 TryHackMe
+Venmo
 Weblate
 YandexMusic
-kaskus
 mercadolivre
 opennet
 phpRU
