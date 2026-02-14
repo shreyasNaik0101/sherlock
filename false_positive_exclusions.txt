@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 DeviantArt
 Fandom
 GNOME VCS
@@ -22,12 +21,11 @@ Smule
 Splice
 Spotify
 TryHackMe
-Venmo
 Weblate
 YandexMusic
+kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
-xHamster
