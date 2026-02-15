@@ -12,6 +12,7 @@ Hubski
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -22,6 +23,7 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wikidot
 YandexMusic
 kaskus
 mercadolivre
