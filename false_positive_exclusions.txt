@@ -1,14 +1,13 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 DeviantArt
-Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+LessWrong
 LushStories
 PepperIT
 PocketStars
