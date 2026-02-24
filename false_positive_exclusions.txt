@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-CyberDefenders
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -10,7 +9,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Reddit
@@ -29,3 +27,4 @@ mercadolivre
 phpRU
 svidbook
 threads
+xHamster
