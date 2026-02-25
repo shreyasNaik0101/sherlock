@@ -1,7 +1,6 @@
 APClips
 Archive.org
-Code Snippet Wiki
-DeviantArt
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,6 +8,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -24,7 +24,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
