@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -29,3 +28,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
