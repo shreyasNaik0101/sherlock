@@ -1,7 +1,5 @@
 APClips
 Archive.org
-BitBucket
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -25,6 +23,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
