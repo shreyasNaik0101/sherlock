@@ -1,5 +1,6 @@
 APClips
 Archive.org
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -7,6 +8,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
@@ -27,4 +29,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
