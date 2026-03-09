@@ -1,13 +1,12 @@
 APClips
 Archive.org
-CyberDefenders
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -27,6 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
