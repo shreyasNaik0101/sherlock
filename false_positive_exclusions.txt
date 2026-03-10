@@ -1,12 +1,13 @@
 APClips
 Archive.org
+Cults3D
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -18,6 +19,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
@@ -26,9 +28,8 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-minds
+nnRU
 opennet
 phpRU
 svidbook
 threads
-xHamster
