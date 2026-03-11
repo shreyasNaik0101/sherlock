@@ -1,7 +1,6 @@
 APClips
 Archive.org
-Cults3D
-CyberDefenders
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,10 +15,10 @@ Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
@@ -28,8 +27,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-nnRU
-opennet
 phpRU
 svidbook
 threads
