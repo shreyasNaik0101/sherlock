@@ -1,6 +1,7 @@
 APClips
 Archive.org
-DeviantArt
+Chatujme.cz
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -15,7 +16,6 @@ Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
