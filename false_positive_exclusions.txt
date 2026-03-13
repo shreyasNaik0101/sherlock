@@ -1,7 +1,6 @@
 APClips
 Archive.org
-Chatujme.cz
-CyberDefenders
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,6 +11,7 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Rarible
 Reddit
 Roblox
@@ -27,6 +27,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
