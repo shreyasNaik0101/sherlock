@@ -1,6 +1,6 @@
 APClips
 Archive.org
-GNOME VCS
+DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,11 +10,13 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
