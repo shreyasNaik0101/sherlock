@@ -1,6 +1,7 @@
 APClips
 Archive.org
-CyberDefenders
+Dribbble
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -16,7 +17,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 TryHackMe
