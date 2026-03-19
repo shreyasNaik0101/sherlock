@@ -1,19 +1,22 @@
 APClips
 Archive.org
-Dribbble
-Eintracht Frankfurt Forum
+DeviantArt
+Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -28,3 +31,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
