@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -25,7 +26,9 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
 threads
+xHamster
