@@ -1,6 +1,7 @@
 APClips
 Archive.org
-CyberDefenders
+Carbonmade
+Cults3D
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -11,7 +12,6 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -27,8 +27,6 @@ YandexMusic
 kaskus
 mercadolivre
 minds
-opennet
 phpRU
 svidbook
 threads
-xHamster
