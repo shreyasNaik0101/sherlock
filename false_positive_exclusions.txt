@@ -1,7 +1,6 @@
 APClips
 Archive.org
-Carbonmade
-Cults3D
+CGTrader
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -26,7 +25,8 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-minds
+nnRU
+opennet
 phpRU
 svidbook
 threads
