@@ -1,6 +1,6 @@
 APClips
 Archive.org
-CGTrader
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -8,7 +8,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Rarible
@@ -25,7 +24,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
