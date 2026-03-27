@@ -1,6 +1,5 @@
 APClips
 Archive.org
-DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -10,7 +9,6 @@ LessWrong
 LushStories
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -25,8 +23,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-nnRU
 phpRU
 svidbook
 threads
-xHamster
