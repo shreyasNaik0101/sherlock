@@ -1,6 +1,7 @@
 APClips
 Archive.org
 CyberDefenders
+DeviantArt
 DigitalSpy
 GeeksforGeeks
 Giphy
@@ -8,9 +9,11 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -23,9 +26,11 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+interpals
 kaskus
 mercadolivre
 opennet
 phpRU
 svidbook
 threads
+xHamster
