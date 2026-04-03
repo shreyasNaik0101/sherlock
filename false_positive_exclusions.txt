@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -25,7 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
