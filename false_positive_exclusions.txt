@@ -1,15 +1,14 @@
 7Cups
 APClips
-Archive of Our Own
 Archive.org
-CyberDefenders
+DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Pornhub
@@ -18,6 +17,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -26,6 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
