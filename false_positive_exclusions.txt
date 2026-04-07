@@ -1,6 +1,8 @@
 7Cups
 APClips
 Archive.org
+Bandcamp
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -17,7 +19,6 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -32,4 +33,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
