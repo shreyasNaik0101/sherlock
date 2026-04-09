@@ -1,8 +1,8 @@
 7Cups
 APClips
-Academia.edu
 Archive.org
 Bandcamp
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -24,6 +24,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -33,4 +34,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
