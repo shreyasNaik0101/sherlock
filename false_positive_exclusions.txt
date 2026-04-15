@@ -11,9 +11,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+OurDJTalk
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -26,6 +26,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+dailykos
 interpals
 kaskus
 mercadolivre
@@ -33,4 +34,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
