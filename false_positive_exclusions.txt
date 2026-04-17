@@ -11,7 +11,6 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
 PocketStars
 Rarible
@@ -28,7 +27,6 @@ Velomania
 Weblate
 YandexMusic
 dailykos
-eintracht
 interpals
 kaskus
 mercadolivre
