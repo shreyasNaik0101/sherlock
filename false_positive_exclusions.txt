@@ -3,14 +3,15 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Cults3D
 CyberDefenders
-DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 PepperIT
 PocketStars
 Rarible
@@ -23,7 +24,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
