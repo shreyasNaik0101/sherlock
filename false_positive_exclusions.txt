@@ -3,8 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Cults3D
-CyberDefenders
+DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -12,6 +11,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
 PepperIT
 PocketStars
 Rarible
@@ -19,11 +19,13 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
