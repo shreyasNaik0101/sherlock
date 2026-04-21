@@ -6,15 +6,12 @@ Bandcamp
 DeviantArt
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
 LessWrong
 LushStories
 PepperIT
-PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -25,6 +22,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
