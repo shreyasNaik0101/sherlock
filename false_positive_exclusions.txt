@@ -9,8 +9,6 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LessWrong
-LushStories
 PepperIT
 Rarible
 Reddit
