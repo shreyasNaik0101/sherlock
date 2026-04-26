@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CyberDefenders
 DeviantArt
 GeeksforGeeks
 Giphy
@@ -11,9 +12,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -24,7 +23,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
