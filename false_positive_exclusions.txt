@@ -4,16 +4,17 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+DEV Community
+DeviantArt
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
-HackerRank
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -34,3 +35,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
