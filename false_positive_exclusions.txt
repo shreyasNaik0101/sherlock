@@ -4,8 +4,6 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-DEV Community
-DeviantArt
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -25,6 +23,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
