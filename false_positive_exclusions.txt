@@ -4,14 +4,17 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
+Audiojungle
 Bandcamp
-DeviantArt
+CGTrader
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 PepperIT
 Pornhub
@@ -22,6 +25,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
