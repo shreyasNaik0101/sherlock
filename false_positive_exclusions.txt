@@ -4,10 +4,8 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
-CGTrader
-CyberDefenders
+DeviantArt
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -25,7 +23,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
@@ -36,6 +33,7 @@ dailykos
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
