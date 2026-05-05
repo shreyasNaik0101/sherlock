@@ -1,21 +1,21 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-DeviantArt
+Cults3D
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -33,9 +33,7 @@ dailykos
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
 threads
-xHamster
