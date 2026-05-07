@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-DeviantArt
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -16,14 +14,11 @@ Hubski
 LessWrong
 LushStories
 PepperIT
-Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
-Slack
 SlideShare
 Smule
 Splice
