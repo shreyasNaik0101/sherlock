@@ -5,12 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 DeviantArt
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -28,6 +26,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Velomania
 Weblate
