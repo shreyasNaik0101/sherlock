@@ -5,15 +5,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 CyberDefenders
 DeviantArt
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
+LessWrong
 LushStories
 Motherless
 PepperIT
@@ -31,6 +32,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
@@ -40,3 +42,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
