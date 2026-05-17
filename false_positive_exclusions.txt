@@ -10,8 +10,6 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
 PepperIT
 Rarible
