@@ -1,26 +1,23 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
-ArtStation
 Bandcamp
-DeviantArt
+Codolio
+Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
-HackerEarth
 Hashnode
 Hubski
-LushStories
-PepperIT
-Pornhub
+Patched
 Rarible
+Realmeye
 Reddit
-Roblox
 RocketTube
 Scribd
+Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -33,11 +30,7 @@ authorSTREAM
 dailykos
 igromania
 interpals
-kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-threads
-xHamster
