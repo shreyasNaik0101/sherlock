@@ -1,20 +1,20 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
-Fosstodon
-Freelancer
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
