@@ -11,9 +11,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+Minecraft
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,7 +34,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
