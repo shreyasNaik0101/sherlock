@@ -6,20 +6,17 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
-HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -33,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
