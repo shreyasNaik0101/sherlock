@@ -7,6 +7,7 @@ Archive.org
 Bandcamp
 Blogger
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -20,9 +21,7 @@ Hubski
 Instapaper
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -35,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
@@ -47,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
