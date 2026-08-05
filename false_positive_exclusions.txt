@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 Blogger
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -19,9 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -34,9 +33,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
