@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Odysee
 PCGamer
 Pornhub
@@ -31,14 +32,15 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -47,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
