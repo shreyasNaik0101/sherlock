@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,7 +16,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Odysee
 PCGamer
 Pornhub
@@ -32,12 +30,11 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
