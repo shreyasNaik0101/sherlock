@@ -1,9 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -12,13 +14,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gumroad
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
