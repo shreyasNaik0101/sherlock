@@ -1,5 +1,7 @@
 7Cups
+APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
@@ -10,15 +12,14 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
