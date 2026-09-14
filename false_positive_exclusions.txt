@@ -16,7 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,7 +25,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
