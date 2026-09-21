@@ -3,13 +3,15 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
+CGTrader
 Championat
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -19,7 +21,7 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
-Rarible
+Pornhub
 Realmeye
 Reddit
 ReverbNation
@@ -29,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 Trovo
 TryHackMe
