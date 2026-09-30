@@ -15,12 +15,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-NitroType
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
