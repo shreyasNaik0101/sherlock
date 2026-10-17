@@ -23,6 +23,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
