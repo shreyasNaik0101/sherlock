@@ -1,17 +1,16 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,6 +21,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -35,18 +35,21 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
