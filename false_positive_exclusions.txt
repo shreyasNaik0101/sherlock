@@ -4,7 +4,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
+Blogger
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -25,7 +26,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -37,6 +37,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -49,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
