@@ -1,10 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,9 +19,9 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -39,6 +37,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
