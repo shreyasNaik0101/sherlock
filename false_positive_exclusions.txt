@@ -1,10 +1,10 @@
 APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -19,17 +19,14 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -43,6 +40,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -51,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
