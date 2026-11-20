@@ -12,8 +12,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-LibraryThing
 Linktree
 ObservableHQ
 Odysee
